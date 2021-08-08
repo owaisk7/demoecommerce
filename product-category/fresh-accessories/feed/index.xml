@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fresh Accessories &#8211; Ecommerce</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 07 Jul 2021 04:43:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>WordPress Pennant</title>
+		<link>./../../../product/wordpress-pennant/index.html</link>
+					<comments>./../../../product/wordpress-pennant/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:19:04 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=3090</guid>
+
+					<description><![CDATA[This is an external product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><a href="./../../../product/wordpress-pennant/index.html" data-quantity="1" class="button product_type_variable" data-product_id="3090" data-product_sku="wp-pennant" aria-label="Select options for &#8220;WordPress Pennant&#8221;" rel="nofollow">Select options</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/wordpress-pennant/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

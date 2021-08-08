@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Products &#8211; Ecommerce</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 07 Jul 2021 07:15:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>WordPress Pennant</title>
+		<link>./../../product/wordpress-pennant/index.html</link>
+					<comments>./../../product/wordpress-pennant/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:19:04 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=3090</guid>
+
+					<description><![CDATA[This is an external product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><a href="./../../product/wordpress-pennant/index.html" data-quantity="1" class="button product_type_variable" data-product_id="3090" data-product_sku="wp-pennant" aria-label="Select options for &#8220;WordPress Pennant&#8221;" rel="nofollow">Select options</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/wordpress-pennant/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Logo Collection</title>
+		<link>./../../product/logo-collection/index.html</link>
+					<comments>./../../product/logo-collection/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:19:02 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=3089</guid>
+
+					<description><![CDATA[This is a grouped product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>18</bdi></span><a href="./../../product/logo-collection/index.html" data-quantity="1" class="button product_type_grouped" data-product_id="3089" data-product_sku="logo-collection" aria-label="View products in the &#8220;Logo Collection&#8221; group" rel="nofollow">View products</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/logo-collection/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Beanie with Logo</title>
+		<link>./../../product/beanie-with-logo/index.html</link>
+					<comments>./../../product/beanie-with-logo/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:19:00 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=3088</guid>
+
+					<description><![CDATA[This is a simple product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>20</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>18</bdi></span></ins><a href="./../../product/beanie-with-logo/index.html?add-to-cart=3088" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3088" data-product_sku="Woo-beanie-logo" aria-label="Add &#8220;Beanie with Logo&#8221; to your cart" rel="nofollow">Add to cart</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/beanie-with-logo/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>T-Shirt with Logo</title>
+		<link>./../../product/t-shirt-with-logo/index.html</link>
+					<comments>./../../product/t-shirt-with-logo/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:18:59 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=3087</guid>
+
+					<description><![CDATA[This is a simple product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>670</bdi></span><a href="./../../product/t-shirt-with-logo/index.html?add-to-cart=3087" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3087" data-product_sku="Woo-tshirt-logo" aria-label="Add &#8220;T-Shirt with Logo&#8221; to your cart" rel="nofollow">Add to cart</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/t-shirt-with-logo/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Single</title>
+		<link>./../../product/single/index.html</link>
+					<comments>./../../product/single/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:18:48 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=3080</guid>
+
+					<description><![CDATA[This is a simple, virtual product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>3</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>2</bdi></span></ins><a href="./../../product/single/index.html?add-to-cart=3080" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3080" data-product_sku="woo-single" aria-label="Add &#8220;Single&#8221; to your cart" rel="nofollow">Add to cart</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/single/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Album</title>
+		<link>./../../product/album/index.html</link>
+					<comments>./../../product/album/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:18:46 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=3079</guid>
+
+					<description><![CDATA[This is a simple, virtual product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>1500</bdi></span><a href="./../../product/album/index.html?add-to-cart=3079" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3079" data-product_sku="woo-album" aria-label="Add &#8220;Album&#8221; to your cart" rel="nofollow">Add to cart</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis orci ac odio dictum tincidunt. Donec ut metus leo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus, dui eu sagittis sodales, nulla nibh sagittis augue, vel porttitor diam enim non metus. Vestibulum aliquam augue neque. Phasellus tincidunt odio eget ullamcorper efficitur. Cras placerat ut turpis pellentesque vulputate. Nam sed consequat tortor. Curabitur finibus sapien dolor. Ut eleifend tellus nec erat pulvinar dignissim. Nam non arcu purus. Vivamus et massa massa.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/album/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Polo</title>
+		<link>./../../product/polo/index.html</link>
+					<comments>./../../product/polo/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:18:45 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=3078</guid>
+
+					<description><![CDATA[This is a simple product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>20</bdi></span><a href="./../../product/polo/index.html?add-to-cart=3078" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3078" data-product_sku="woo-polo" aria-label="Add &#8220;Polo&#8221; to your cart" rel="nofollow">Add to cart</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/polo/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Long Sleeve Tee</title>
+		<link>./../../product/long-sleeve-tee/index.html</link>
+					<comments>./../../product/long-sleeve-tee/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:18:43 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=3077</guid>
+
+					<description><![CDATA[This is a simple product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>25</bdi></span><a href="./../../product/long-sleeve-tee/index.html?add-to-cart=3077" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3077" data-product_sku="woo-long-sleeve-tee" aria-label="Add &#8220;Long Sleeve Tee&#8221; to your cart" rel="nofollow">Add to cart</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/long-sleeve-tee/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hoodie with Zipper</title>
+		<link>./../../product/hoodie-with-zipper/index.html</link>
+					<comments>./../../product/hoodie-with-zipper/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:18:41 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=3076</guid>
+
+					<description><![CDATA[This is a simple product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>45</bdi></span><a href="./../../product/hoodie-with-zipper/index.html?add-to-cart=3076" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3076" data-product_sku="woo-hoodie-with-zipper" aria-label="Add &#8220;Hoodie with Zipper&#8221; to your cart" rel="nofollow">Add to cart</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/hoodie-with-zipper/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sunglasses</title>
+		<link>./../../product/sunglasses/index.html</link>
+					<comments>./../../product/sunglasses/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:18:37 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=3074</guid>
+
+					<description><![CDATA[This is a simple product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>90</bdi></span><a href="./../../product/sunglasses/index.html?add-to-cart=3074" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3074" data-product_sku="woo-sunglasses" aria-label="Add &#8220;Sunglasses&#8221; to your cart" rel="nofollow">Add to cart</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../product/sunglasses/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

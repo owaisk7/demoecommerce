@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Men &#8211; Ecommerce</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 06 Jul 2021 04:59:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>T-Shirt with Logo</title>
+		<link>./../../../product/t-shirt-with-logo/index.html</link>
+					<comments>./../../../product/t-shirt-with-logo/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:18:59 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=3087</guid>
+
+					<description><![CDATA[This is a simple product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>670</bdi></span><a href="./../../../product/t-shirt-with-logo/index.html?add-to-cart=3087" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3087" data-product_sku="Woo-tshirt-logo" aria-label="Add &#8220;T-Shirt with Logo&#8221; to your cart" rel="nofollow">Add to cart</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/t-shirt-with-logo/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>V-Neck T-Shirt</title>
+		<link>./../../../product/v-neck-t-shirt/index.html</link>
+					<comments>./../../../product/v-neck-t-shirt/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:18:25 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=3067</guid>
+
+					<description><![CDATA[This is a variable product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>15</bdi></span> &#8211; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>20</bdi></span><a href="./../../../product/v-neck-t-shirt/index.html" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="3067" data-product_sku="woo-vneck-tee" aria-label="Select options for &#8220;V-Neck T-Shirt&#8221;" rel="nofollow">Select options</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/v-neck-t-shirt/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

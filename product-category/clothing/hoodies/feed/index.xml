@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hoodies &#8211; Ecommerce</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 05 Jul 2021 06:40:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Hoodie with Zipper</title>
+		<link>./../../../../product/hoodie-with-zipper/index.html</link>
+					<comments>./../../../../product/hoodie-with-zipper/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:18:41 +0000</pubDate>
+				<guid isPermaLink="false">./../../../../index.html?post_type=product&#038;p=3076</guid>
+
+					<description><![CDATA[This is a simple product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>45</bdi></span><a href="./../../../../product/hoodie-with-zipper/index.html?add-to-cart=3076" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3076" data-product_sku="woo-hoodie-with-zipper" aria-label="Add &#8220;Hoodie with Zipper&#8221; to your cart" rel="nofollow">Add to cart</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../product/hoodie-with-zipper/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hoodie with Logo</title>
+		<link>./../../../../product/hoodie-with-logo/index.html</link>
+					<comments>./../../../../product/hoodie-with-logo/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:18:29 +0000</pubDate>
+				<guid isPermaLink="false">./../../../../index.html?post_type=product&#038;p=3069</guid>
+
+					<description><![CDATA[This is a simple product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><a href="./../../../../product/hoodie-with-logo/index.html" data-quantity="1" class="button product_type_variable" data-product_id="3069" data-product_sku="woo-hoodie-with-logo" aria-label="Select options for &#8220;Hoodie with Logo&#8221;" rel="nofollow">Read more</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../product/hoodie-with-logo/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hoodie</title>
+		<link>./../../../../product/hoodie/index.html</link>
+					<comments>./../../../../product/hoodie/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2021 06:18:27 +0000</pubDate>
+				<guid isPermaLink="false">./../../../../index.html?post_type=product&#038;p=3068</guid>
+
+					<description><![CDATA[This is a variable product.&#8230;<p class="product woocommerce add_to_cart_inline " style="border:4px solid #ccc; padding: 12px;"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>42</bdi></span> &#8211; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>45</bdi></span><a href="./../../../../product/hoodie/index.html" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="3068" data-product_sku="woo-hoodie" aria-label="Select options for &#8220;Hoodie&#8221;" rel="nofollow">Select options</a></p>]]></description>
+										<content:encoded><![CDATA[<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../product/hoodie/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
